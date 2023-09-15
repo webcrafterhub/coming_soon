@@ -64,7 +64,7 @@ class App extends React.Component {
             |{" "}
             <a
               className="underlined"
-              href="https://github.com/arkn98/coming-soon"
+              href="https://github.com/webcrafterhub/webcrafterhub"
               title="GitHub repo"
               target="_blank"
               rel="noopener noreferrer"
